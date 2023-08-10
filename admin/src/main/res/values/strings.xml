@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Mobilskuy Admin</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="add_admin">Add Admin</string>
+    <string name="add">Add</string>
+    <string name="pending_order">Pending Order</string>
+    <string name="owned_car">Owned Car</string>
+    <string name="active_order">Active Order</string>
+    <string name="or">Or</string>
+    <string name="register">Register</string>
+    <string name="total_admin">Total admin</string>
+    <string name="order_history">Successful Order History</string>
+    <string name="no_data">No data found</string>
+    <string name="_0">0</string>
+    <string name="pending_orders">Pending orders</string>
+    <string name="pending">Pending</string>
+    <string name="total_clients">Total clients</string>
+    <string name="logout">Logout</string>
+    <string name="edit">Edit</string>
+    <string name="add_new_car">Add new car</string>
+    <string name="car_name">Car Name</string>
+    <string name="production_year">Production year</string>
+    <string name="transmission">Transmission</string>
+    <string name="rent_types">Rent types</string>
+    <string name="with_driver">With driver</string>
+    <string name="without_driver">Without driver</string>
+    <string name="daily_price">Daily Price</string>
+    <string name="monthly_price">Monthly price</string>
+    <string name="this_month_s_revenue">This month\'s revenue</string>
+    <string name="total_revenue">Total Revenue</string>
+    <string name="rp0">Rp0</string>
+    <string name="price">Price</string>
+    <string name="delete">Delete</string>
+    <string name="admin_list">Admin List</string>
+    <string name="add_car">Add car</string>
+    <string name="title_placeholder">Title Placeholder</string>
+    <string name="total_seat">Total seat</string>
+    <string name="daily_price_with_driver">Daily Price With Driver</string>
+    <string name="daily_price_without_driver">Daily Price without Driver</string>
+    <string name="tenant_data">Tenant data</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="required_files">Required files</string>
+    <string name="ktp">KTP</string>
+    <string name="payment_receipt">Payment receipt</string>
+    <string name="accept">Accept</string>
+    <string name="reject">Reject</string>
+    <string name="from_to">From - to</string>
+    <string name="developer_credit">Developer Information</string>
+    <string-array name="transmissions">
+        <item>Automatic</item>
+        <item>Manual</item>
+    </string-array>
+</resources>

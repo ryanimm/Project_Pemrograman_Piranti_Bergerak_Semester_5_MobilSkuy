@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182426294698",
+    "project_id": "ryan-immanuel",
+    "storage_bucket": "ryan-immanuel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182426294698:android:46b982ce343ea9727eb3d3",
+        "android_client_info": {
+          "package_name": "com.example.a412020007_ryanimmanuel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182426294698-go6cctfdihf628ssnb04n1l1csfavkfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVPWlNBSdPRQFeKfmlRq-KDC5FyVq_3Ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182426294698-go6cctfdihf628ssnb04n1l1csfavkfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

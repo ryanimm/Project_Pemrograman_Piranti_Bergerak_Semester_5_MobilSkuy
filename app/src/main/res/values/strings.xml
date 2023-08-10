@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">MobilSkuy</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="or">Or</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="birthdate">Birthdate</string>
+    <string name="home">Home</string>
+    <string name="history">History</string>
+    <string name="profile">Profile</string>
+    <string name="title_placeholder">Title Placeholder</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_data_found">No data found!</string>
+    <string name="select_available_car">Select available car</string>
+    <string name="detail">Detail</string>
+    <string name="rent">Rent</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="rent_type">Rent type</string>
+    <string name="with_driver">With Driver</string>
+    <string name="without_driver">Without Driver</string>
+    <string name="next">Next</string>
+    <string name="tenant_data">Tenant data</string>
+    <string name="address">Address</string>
+    <string name="total">Total:</string>
+    <string name="required_file">Required file</string>
+    <string name="ktp">KTP</string>
+    <string name="kk">KK</string>
+    <string name="payment_receipt">Payment receipt</string>
+    <string name="update">Update</string>
+    <string name="logout">Logout</string>
+    <string name="about">About</string>
+</resources>
